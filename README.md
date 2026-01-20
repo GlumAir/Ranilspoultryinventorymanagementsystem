@@ -1,6 +1,8 @@
 
   # Ranil's Poultry Inventory Management System
 
+  Here's a demo site: https://grey-vine-73514183.figma.site
+  
   ## Group 1 BSIT 3-2N
 
   Arroyo, Rav Symon V.
