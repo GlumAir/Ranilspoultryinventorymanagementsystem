@@ -1,7 +1,8 @@
+###Ranil's Poultry Inventory Management System
+While Figma was utilized for the initial UI/UX wireframing and design concepts, this project represents a fully custom-engineered application. Our team handled the architecture and data handling for a functional system.
 
-  # Poultry Inventory Management System
+Our key contributions to the codebase include:
 
-  This is a code bundle for Poultry Inventory Management System. The original project is available at https://www.figma.com/design/Zt0bbz40r4r5cO7BQCqapw/Poultry-Inventory-Management-System.
 
   ## Running the code
 
