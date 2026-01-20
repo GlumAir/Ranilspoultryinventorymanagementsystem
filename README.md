@@ -15,7 +15,7 @@
   
   Virrey, Weenz Jay N.
   
-  While Figma was utilized for the initial UI/UX wireframing and design concepts, this project represents a fully custom-engineered application. Our team handled the architecture and data handling for a functional system.
+  This system is a demonstration project. Although Figma was used for the initial UI/UX wireframing and design ideation, the application itself was fully custom-engineered. Our team designed and implemented the complete system architecture to deliver a   functional inventory management solution
   
   ## Running the code
 
